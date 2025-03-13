@@ -1,25 +1,4 @@
-
-# Phishing URL detection using ML
-
-This project leverages machine learning and feature extraction techniques to detect phishing URLs, enhancing cybersecurity by identifying potentially malicious links. The system is designed to classify URLs as legitimate or phishing based on various URL features and a trained classifier.
-
-
-## Directory Usage
-
-```bash
-  Directory structure:
-└── nav2924-phishing_url/
-    ├── Phishing Site URLs .ipynb
-    ├── Requirements.txt
-    ├── phishing.pkl
-    ├── prediction_app.py
-    └── Dataset/
-        └── phishing_site_urls.csv
-
-```
-
-
-#Follow these Procedures to install 
+# Follow these Procedures to install 
 
 ## Installation
 ```bash
