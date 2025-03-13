@@ -18,6 +18,9 @@ This project leverages machine learning and feature extraction techniques to det
 
 ```
 
+
+#Follow these Procedures to install 
+
 ## Installation
 ```bash
 git clone https://github.com/nav2924/phishing_url.git
